@@ -67,7 +67,7 @@ This project is a dynamic, interactive event calendar that allows users to manag
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/calendar-app.git
+git clone https://github.com/aditistuti/Calendar.git
 cd calendar-app
 npm install
 ```
