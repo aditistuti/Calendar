@@ -1,4 +1,4 @@
-import DateBox from './dateBox';
+import DateBox from './DateBox';
 import { startOfMonth, endOfMonth, startOfWeek, addDays, format, isSameDay } from 'date-fns'
 import { useEvents } from '../hooks/useEvents';
 import { recurringDates } from '../utils/recurringDates';
